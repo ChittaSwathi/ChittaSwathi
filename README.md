@@ -29,6 +29,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chittaswathi&theme=vue-dark&background=063750)](https://git.io/streak-stats)
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=chittaswathi&layout=compact&theme=kanagawa&show_icons=true" alt="Swathi's GitHub stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittaswathi&layout=compact&theme=kanagawa&show_icons=true" alt="Top Langs" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chittaswathi&layout=compact&theme=Catpussin&show_icons=true" alt="Swathi's GitHub stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittaswathi&layout=compact&theme=Solarized&show_icons=true" alt="Top Langs" height="150" />
 </div>
