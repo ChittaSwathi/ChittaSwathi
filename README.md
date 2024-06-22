@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1FMO2LovBmQmyV2Fo6VGYMTjJV5aSnu46Fs5xkxvGJsw/edit?usp=sharing">Resume</a>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swathi-chitta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swathi-chitta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swathichitta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swathichitta" height="30" width="40" /></a>
@@ -29,6 +29,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chittaswathi&theme=vue-dark&background=063750)](https://git.io/streak-stats)
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=harshavardhanm03&layout=compact&theme=tokyonight&show_icons=true" alt="Harsha's GitHub stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhanm03&layout=compact&theme=tokyonight&show_icons=true" alt="Top Langs" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chittaswathi&layout=compact&theme=kanagawa&show_icons=true" alt="Swathi's GitHub stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chittaswathi&layout=compact&theme=kanagawa&show_icons=true" alt="Top Langs" height="150" />
 </div>
