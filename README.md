@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swathi Chitta</h1>
-<h3 align="center">I am deeply passionate about software engineering.</h3>
+
+<h3 align="center">💼 I am passionate about software engineering and ❤️ to automate everything</h3>
+* 💬 Reach out to me for consulting and volunteering
+
 
 <p align="left" padding="2px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chittaswathi" alt="chittaswathi" /></a> </p>
 
