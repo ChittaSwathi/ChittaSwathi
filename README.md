@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chittaswathi98@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1FMO2LovBmQmyV2Fo6VGYMTjJV5aSnu46Fs5xkxvGJsw/edit?usp=sharing]<a href="https://docs.google.com/document/d/1FMO2LovBmQmyV2Fo6VGYMTjJV5aSnu46Fs5xkxvGJsw/edit?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1FMO2LovBmQmyV2Fo6VGYMTjJV5aSnu46Fs5xkxvGJsw/edit?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
