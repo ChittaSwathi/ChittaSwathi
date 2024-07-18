@@ -10,9 +10,7 @@
 
 <!--<p align="left" padding="2px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chittaswathi" alt="chittaswathi" /></a> </p>-->
 
-- 🔭 I’m currently working on a **Big data project**
-
-- 🌱 I’m currently learning **Big data**
+- 🌱 Currenlty Enhancing skills on **Big data** 
 
 - 📫 How to reach me **chittaswathi98@gmail.com**
 
