@@ -2,7 +2,7 @@
 
 **About me**
 * 💼 Software Enginneer
-* ❤️ Love to automate everything
+* ❤️ "Coding is a journey, not a destination."
 * 💬 Reach out to me for consulting and volunteering
 
 ### Programming Languages & Cloud Technologies
