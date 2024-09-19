@@ -5,6 +5,8 @@
 * ❤️ "Coding is a journey, not a destination."
 * 💬 Reach out to me for consulting and volunteering
 
+My leetcode <a href="https://leetcode.com/u/Swathichitta/">Link</a>
+
 ### Programming Languages & Cloud Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000) ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![ODOO](https://img.shields.io/badge/ODOO-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
