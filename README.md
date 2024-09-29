@@ -16,8 +16,6 @@ My leetcode <a href="https://leetcode.com/u/Swathichitta/">Link</a>
 
 - 📫 How to reach me **chittaswathi98@gmail.com**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1FMO2LovBmQmyV2Fo6VGYMTjJV5aSnu46Fs5xkxvGJsw/edit?usp=sharing">Resume</a>
-
 <h4 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swathi-chitta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swathi-chitta" height="30" width="40" /></a>
