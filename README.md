@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swathi Chitta</h1>
 
 **About me**
-* 💼 Software Enginneer
+* 💼  Software Enginneer / Data Engineer / Automation Engineer
 * ❤️ "Coding is a journey, not a destination."
 * 💬 Reach out to me for consulting and volunteering
 
